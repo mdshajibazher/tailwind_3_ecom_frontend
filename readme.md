@@ -1,0 +1,1 @@
+`Simple tailwind 3 ecommerce frontend project`
